@@ -1,10 +1,11 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Darshan Jain
 =====================================================================================================================================
-
+<br>
 <div align="center">
     <img src="https://github.com/Djain318/Djain318/blob/main/GSoC.png" alt="GSoC Logo">
 </div>
 
+<br>
 
 * 🌍  I'm a Google Summer of Code' 24 Contributer @ [Videolan - VLC Media Player Project](https://code.videolan.org/Thrillseekr)
 * 🌍  My most contributions are on GitLab @ [GitLab](https://code.videolan.org/Thrillseekr)
