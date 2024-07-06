@@ -4,11 +4,10 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <div align="center">
     <img src="https://github.com/Djain318/Djain318/blob/main/GSoC.png" alt="GSoC Logo">
 </div>
-
 <br>
 
 * 🌍  I'm a Google Summer of Code' 24 Contributer @ [Videolan - VLC Media Player Project](https://code.videolan.org/Thrillseekr)
-* 🌍  My most contributions are on GitLab @ [GitLab](https://code.videolan.org/Thrillseekr)
+* 🌍  My most contributions are on @ [GitLab](https://code.videolan.org/Thrillseekr)
 * 🖥️  See my portfolio at [Portfolio](https://djain318.github.io/My-Portfolio/)
 * ✉️  You can contact me at [darshanjain318@gmail.com](mailto:darshanjain318@gmail.com)
 * 🤝  I'm open to collaborating on some interesting projects..
@@ -17,7 +16,6 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/mkJsbrck)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshanjain318/)
-
 
 
 # 💻 Tech Stack:
@@ -30,16 +28,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=notpritam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=notpritam&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notpritam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=notpritam&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
