@@ -1,8 +1,8 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Darshan Jain
 =====================================================================================================================================
 
-<div style="text-align:center;">
-    <img src="[gsoc.png](https://github.com/Djain318/Djain318/blob/main/GSoC.png)" alt="GSoC Logo">
+<div align="center">
+    <img src="https://github.com/Djain318/Djain318/blob/main/GSoC.png" alt="GSoC Logo">
 </div>
 
 
